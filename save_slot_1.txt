@@ -1,0 +1,15 @@
+PlayerName: dr.tamer
+Level: 1
+Budget: 29050
+Timer: 110
+WarehouseEggs: 0
+WarehouseMilk: 0
+ChickCount: 2
+CowCount: 3
+553 229
+332 177
+421 382
+137 276
+693 390
+WolfCount: 0
+FoodCount: 0
